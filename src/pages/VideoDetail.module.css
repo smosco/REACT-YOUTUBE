@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+/* article {
+  flex-basis: 66.666667%;
+}
+
+.side {
+  flex-basis: 33.333333%;
+} */
+
+/* .pre {
+  white-space: nowrap;
+} */
+
+@media screen and (min-width: 1024px) {
+  .container {
+    flex-direction: row;
+  }
+}

@@ -1,0 +1,24 @@
+img {
+  width: 100%;
+}
+
+.title {
+  font-weight: 600;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.channel {
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.25rem; /* 20px */
+  opacity: 0.8;
+}
+.time {
+  font-size: 0.875rem; /* 14px */
+  line-height: 1.25rem; /* 20px */
+  opacity: 0.8;
+}
